@@ -169,6 +169,7 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    display: inline;
 }
 .me{
 font-size: 25px;
